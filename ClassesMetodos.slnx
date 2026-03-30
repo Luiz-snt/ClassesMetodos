@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Model/Model.csproj" />
+  </Folder>
+  <Project Path="ClassesMetodos/ClassesMetodos.csproj" />
+</Solution>
